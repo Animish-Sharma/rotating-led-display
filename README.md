@@ -1,6 +1,10 @@
 # Rotating LED Display  
 
-Welcome to the **Rotating LED Display** project! This system brings together innovation, creativity, and technology to create a stunning visual experience. Designed and developed by **Animish Sharma** ([Animish-Sharma](https://github.com/Animish-Sharma)) and **Shashwat Mukadam** ([Shashwat-11](https://github.com/Shashwat-11)), this project showcases a rotating LED platform capable of displaying real-time text, time, and date in various formats.  
+Welcome to the **Rotating LED Display** project! This system brings together innovation, creativity, and technology to create a stunning visual experience. Designed and developed by
+1. **[Animish Sharma](https://github.com/Animish-Sharma)**
+2. **[Shashwat Mukadam](https://github.com/Shashwat-11)** 
+
+this project showcases a rotating LED platform capable of displaying real-time text, time, and date in various formats.  
 
 The hardware is driven by an **ESP8266 microcontroller**, with content managed via a **Flutter-based mobile application**, enabling effortless customization. While the app has provisions for image uploads, this feature is currently unoptimized and excluded from this version of the repository.  
 
@@ -89,8 +93,27 @@ The hardware is driven by an **ESP8266 microcontroller**, with content managed v
 
    *Note: Ensure your system and device are connected to the same Wi-Fi network as the ESP8266 for proper communication.*  
 
-### Screenshots (App)
+## Screenshots (App)
+![screenshot1](https://github.com/Animish-Sharma/rotating-led-display/blob/main/app/New%20folder/screenshot2.jpeg?raw=true)
+![screenshot2](https://github.com/Animish-Sharma/rotating-led-display/blob/main/app/New%20folder/screenshot1.jpeg?raw=true)
 
-### Circuit
+## Circuit Design
 
-### Result
+### Circuit Design
+![circuit](https://github.com/Animish-Sharma/rotating-led-display/blob/main/app/New%20folder/ewcircuit.png?raw=true)
+
+### FlowChart
+![flowchart](https://github.com/Animish-Sharma/rotating-led-display/blob/main/app/New%20folder/flowchart.png?raw=true)
+## Result
+### | [Google Drive Video](https://drive.google.com/file/d/1EhQVvF1xgY1Ot-h7ytVo3lwRY-moVVTa/view?usp=drive_link)
+
+#### Some Images
+
+1st Image
+![1](https://github.com/Animish-Sharma/rotating-led-display/blob/main/app/New%20folder/1.jpeg?raw=true)
+
+2nd Image
+![2](https://github.com/Animish-Sharma/rotating-led-display/blob/main/app/New%20folder/2.jpeg?raw=true)
+
+3rd Image
+![3](https://github.com/Animish-Sharma/rotating-led-display/blob/main/app/New%20folder/3.jpeg?raw=true)
